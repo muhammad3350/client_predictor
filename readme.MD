@@ -64,7 +64,6 @@ The project compares the following algorithms:
 - Decision Tree
 - Random Forest
 - Gradient Boosting
-- Histogram-based Gradient Boosting
 - Support Vector Machine (SVM)
 - Voting Ensemble (Soft Voting of Logistic Regression, Random Forest, Gradient Boosting)
 
